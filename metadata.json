@@ -1,0 +1,7 @@
+{
+  "name": "Our Lady of the Holy Rosary of Fatima Parish - Pilar, Abra",
+  "description": "Official website of the Parish of Our Lady of the Holy Rosary of Fatima in Poblacion, Pilar, Abra. Find Mass times, sacramental information, ministries, and community events.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
